@@ -6,19 +6,14 @@
       "meaning": "attract or tempt by offering pleasure or advantage"
     },
     {
-      "id": 2,
-      "word": "seduce",
-      "meaning": "entice (someone) into sexual activity"
-    },
-    {
       "word": "melody",
       "meaning": "a sequence of single notes that is musically satisfying; a tune.",
-      "id": 3
+      "id": 2
     },
     {
       "word": "intricate",
       "meaning": "very complicated or detailed",
-      "id": 4
+      "id": 3
     }
   ]
 }
