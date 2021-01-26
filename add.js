@@ -9,7 +9,7 @@ const createPost = async (e) => {
   }
 
   
-  await fetch(`http://localhost:3000/words/`, {
+  await fetch(`https://wordslistapp.herokuapp.com/words/`, {
     method: 'POST',
     body: JSON.stringify(doc),
     headers: { 'Content-Type': 'application/json' }
