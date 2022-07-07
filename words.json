@@ -1,29 +1,39 @@
 {
-  "words": [
-    {
-      "id": 1,
-      "word": "entice",
-      "meaning": "attract or tempt by offering pleasure or advantage"
-    },
-    {
-      "word": "melody",
-      "meaning": "a sequence of single notes that is musically satisfying; a tune.",
-      "id": 2
-    },
-    {
-      "word": "intricate",
-      "meaning": "very complicated or detailed",
-      "id": 3
-    },
-    {
-      "word": "rubric",
-      "meaning": "a title or set of instructions in a book, an exam paper, etc. usually printed in a particular style",
-      "id": 4
-    },
-    {
-      "word": "faucet",
-      "meaning": "a tap",
-      "id": 5
-    }
-  ]
-}
+    "words": [
+      {
+        "id": 1,
+        "word": "entice",
+        "meaning": "attract or tempt by offering pleasure or advantage"
+      },
+      {
+        "word": "melody",
+        "meaning": "a sequence of single notes that is musically satisfying; a tune.",
+        "id": 2
+      },
+      {
+        "word": "intricate",
+        "meaning": "very complicated or detailed",
+        "id": 3
+      },
+      {
+        "word": "rubric",
+        "meaning": "a title or set of instructions in a book, an exam paper, etc. usually printed in a particular style",
+        "id": 4
+      },
+      {
+        "word": "faucet",
+        "meaning": "a tap",
+        "id": 5
+      },
+      {
+        "word": "inexhaustible",
+        "meaning": "that cannot be finished or used up completely",
+        "id": 6
+      },
+      {
+        "word": "rusticate",
+        "meaning": "suspend (a student) from a university as a punishment",
+        "id": 7
+      }
+    ]
+  }
