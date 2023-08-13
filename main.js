@@ -1,7 +1,6 @@
 
 const getWords = async () => {
-    // let uri = `http://localhost:3000/words/?_sort=word&_order=asc`;
-    let uri = 'https://wordslistapp.herokuapp.com/words/?_sort=name&_order=asc';
+    let uri = 'https://flyingsonu122.github.io/wordlist/words.json';
     const res = await fetch(uri);
     const words = await res.json();
 
